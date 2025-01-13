@@ -44,6 +44,7 @@ accent_color           = '#dd451d'
 
 set_foreground(@base_color)
 
+include_theme('default')
 include_theme("default-icon")
 include_theme("default-title-text")
 include_theme("default-text")
