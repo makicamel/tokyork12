@@ -68,7 +68,6 @@ include_theme("syntax-highlighting")
 include_theme("title-slide-background-image")
 
 @lightning_talk_proc_name = "lightning-rabbit"
-@lightning_talk_as_large_as_possible = true
 @lightning_talk_color = @base_color
 @lightning_talk_font_family = @bold_font
 include_theme("lightning-talk-toolkit")
