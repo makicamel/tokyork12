@@ -141,7 +141,7 @@ end
 # 脚注本体
 match("**", FootTextBlock) do |text_block|
   text_block.margin_bottom = 0
-  text_block.margin_left = 40
+  text_block.margin_left = 60
   text_block.prop_set("size", @xxx_small_font_size)
 end
 
